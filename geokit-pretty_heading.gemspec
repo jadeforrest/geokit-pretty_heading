@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.email       = ["jade@rubick.com"]
   s.homepage    = "http://rubygems.org/gems/geokit-pretty_heading"
   s.summary     = %q{When given two lat/long pairs, displays a pretty heading, like North Northeast.}
-  s.description = %q{Displays a nicely formatted heading in English. See http://en.wikipedia.org/wiki/Boxing_the_compass for the algorithm used}
+  s.description = %q{Displays a nicely formatted heading in English. See http://en.wikipedia.org/wiki/Boxing_the_compass for the algorithm used. The code is also on github: https://github.com/jadeforrest/geokit-pretty_heading}
 
   s.rubyforge_project = "geokit-pretty_heading"
 
