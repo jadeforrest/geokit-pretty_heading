@@ -1,0 +1,5 @@
+This fills a gap in Geokit with the display of English heading labels. Given two lat/long pairs (from, to), you are given back a heading. For example:
+
+  heading_pretty = Geokit::Prettyheading::heading(from_user.latlng, to_user.latlng)
+
+This returns a string such as, 'North', or 'Northeast'. 
